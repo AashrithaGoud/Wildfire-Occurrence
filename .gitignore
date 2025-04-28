@@ -1,5 +1,0 @@
-data
-.venv
-.idea
-**/__pycache__
-src/Load_data/load_model_to_s3.py
